@@ -1,4 +1,4 @@
-Aqui estão 3 Provas feitas com em linguagem Java e utilizando a IDE NetBeans na matéria de Linguagem de Programação (1 metade de 2023).
+Aqui estão 3 Provas feitas com linguagem Java e utilizando a IDE NetBeans na matéria de Linguagem de Programação (2° Período e 1­­ª metade de 2023).
 
 1. Faz o Controle de uma Prestadora usando Classes, Métodos e Construtor. Opções como "Pesquisar pelo Cliente", "Pesquisar por Serviço" e "Valor Total Recebido" podem ser testadas para realizar determinadas funções e acessar determinados dados.
 
